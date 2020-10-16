@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="M_" />
+        <option name="name" value="dev-intensive" />
+        <option name="packageNamePattern" value="ru.skillbranch.devintensive" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="dev-intensive" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fc1eaff-6da5-44e8-9cbb-06d784685a6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/devintensive/ui/main/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/devintensive/ui/ProfileActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/skillbranch/devintensive/ui/ProfileActivity.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RZ8MA2B5BAB" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Dev-intensive" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1gj1UKaOKMkkZWbYQTCpF7p3Z4A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="RZ8MA2B5BAB" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-30T12:00:12.759Z" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="ru.skillbranch.devintensive.ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study and work\dev-intensive-2019\app\src\main\java\ru\skillbranch\devintensive" />
+    </key>
+    <key name="android.template.-1239652742">
+      <recent name="ru.skillbranch.devintensive.ui.main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study and work\dev-intensive-2019\app\src\main\res\values\themes" />
+      <recent name="D:\study and work\dev-intensive-2019\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="ExampleUnitTest.test_date_format" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.skillbranch.devintensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.skillbranch.devintensive" />
+      <option name="MAIN_CLASS_NAME" value="ru.skillbranch.devintensive.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="test_date_format" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.test_instance" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.skillbranch.devintensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.skillbranch.devintensive" />
+      <option name="MAIN_CLASS_NAME" value="ru.skillbranch.devintensive.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="test_instance" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.test_parse" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.skillbranch.devintensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.skillbranch.devintensive" />
+      <option name="MAIN_CLASS_NAME" value="ru.skillbranch.devintensive.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="test_parse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ExampleUnitTest.test_date_format" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.test_parse" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.test_instance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc1eaff-6da5-44e8-9cbb-06d784685a6c" name="Default Changelist" comment="" />
+      <created>1598613201550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598613201550</updated>
+    </task>
+    <task id="LOCAL-00001" summary="28.08.2020 15:22&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598613811419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598613811419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="28.08.2020 15:37&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598614676636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598614676636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="28.08.2020 15:37&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598716971650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598716971650</updated>
+    </task>
+    <task id="LOCAL-00004" summary="28.08.2020 15:37&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598717124034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598717124034</updated>
+    </task>
+    <task id="LOCAL-00005" summary="29.08.2020&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598717239332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598717239332</updated>
+    </task>
+    <task id="LOCAL-00006" summary="29.08.2020&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598717963306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598717963306</updated>
+    </task>
+    <task id="LOCAL-00007" summary="29.08.2020&#10;Очередная попытка запихнуть рабочую версию">
+      <created>1598718083851</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598718083851</updated>
+    </task>
+    <task id="LOCAL-00008" summary="29.08.2020&#10;23:06&#10;Первый слепок основных задач">
+      <created>1598728030899</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598728030899</updated>
+    </task>
+    <task id="LOCAL-00009" summary="29.08.2020&#10;23:06&#10;Первый слепок основных задач">
+      <created>1598728096478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598728096478</updated>
+    </task>
+    <task id="LOCAL-00010" summary="29.08.2020&#10;23:06&#10;Первый слепок основных задач">
+      <created>1598728150960</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598728150960</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="28.08.2020 15:22&#10;Очередная попытка запихнуть рабочую версию" />
+    <MESSAGE value="28.08.2020 15:37&#10;Очередная попытка запихнуть рабочую версию" />
+    <MESSAGE value="29.08.2020&#10;Очередная попытка запихнуть рабочую версию" />
+    <MESSAGE value="29.08.2020&#10;23:06&#10;Первый слепок основных задач" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.08.2020&#10;23:06&#10;Первый слепок основных задач" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="373" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1598789518382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="373" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598789518382" />
+    <state x="691" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598884686132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598884686132" />
+    <state x="737" y="172" width="493" height="695" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1598884696349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="172" width="493" height="695" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598884696349" />
+    <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog" timestamp="1599065345526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599065345526" />
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1599203612488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599203612488" />
+    <state x="818" y="333" key="AndroidCreateXmlResourceDialog" timestamp="1599064726462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="333" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599064726462" />
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1602843962635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602843962635" />
+    <state x="184" y="94" key="DiffContextDialog" timestamp="1598717580065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="94" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598717580065" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598717653509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598717653509" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1599128624284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599128624284" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1599128624283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599128624283" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1599128624283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599128624283" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1599128624283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599128624283" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1598613227378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598613227378" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1598789536991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598789536991" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1602843973070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602843973070" />
+    <state x="620" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1602834708156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="359" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602834708156" />
+    <state x="721" y="364" key="edit.logcat.filter.dialog.dimensions" timestamp="1598789095229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="364" key="edit.logcat.filter.dialog.dimensions/0.0.1920.1040@0.0.1920.1040" timestamp="1598789095229" />
+    <state x="591" y="217" width="737" height="606" key="find.popup" timestamp="1598791338325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="217" width="737" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598791338325" />
+    <state x="775" y="384" key="git4idea.rebase.GitRebaseDialog" timestamp="1598717308564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="384" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598717308564" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599134649126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599134649126" />
+  </component>
+</project>
